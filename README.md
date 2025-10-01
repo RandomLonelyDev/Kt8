@@ -8,7 +8,7 @@ The Kt8 is a 8 bit virtual computer.  It contains:
 - 256 value fixed stack
 - Support for up to 64kb or memory with a 16-bit address space
 - A custom instruction set and compiler
-- Custom UI (See RandomLonelyDev/)
+- Custom UI
 
 
 <h2>
